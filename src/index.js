@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './css/index.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'react-widgets/dist/css/react-widgets.css';
+import "react-datepicker/dist/react-datepicker.css";
+
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
